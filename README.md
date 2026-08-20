@@ -17,7 +17,17 @@ Sometimes @mathrm_alpha also post some weird music theory questions on Stack Exc
 
 - https://music.stackexchange.com/users/90059/mathrm-alpha
 
+### English Stack Exchange
+
+Questions specifically about expressions used in Chinese but not in English
+
+關於中文中使用、但英文中沒有的表達方式的具體問題
+
+## Additional Details
+
 I also enjoy taking apart LaTeX font files from time to time; I’ve used FontForge.
+
+- https://english.stackexchange.com/users/878908/mathrm-alpha
 
 我也喜歡不時拆解 LaTeX 字型檔案；我曾使用過 FontForge。
 
