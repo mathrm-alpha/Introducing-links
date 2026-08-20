@@ -16,3 +16,7 @@ Sometimes @mathrm_alpha also post some weird music theory questions on Stack Exc
 有時候我也會在 Stack Exchange 上發一些奇怪的音樂理論問題。
 
 - https://music.stackexchange.com/users/90059/mathrm-alpha
+
+I also enjoy taking apart LaTeX font files from time to time; I’ve used FontForge.
+
+ - My LaTeX editor of choice is Overleaf.
