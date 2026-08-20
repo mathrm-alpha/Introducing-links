@@ -1,8 +1,6 @@
 # Introducing-links
 These are my personal information methods.
 
-<a href="https://www.buymeacoffee.com/mathrmalpha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-green.png" alt="Please Donate" style="height: 60px !important;width: 217px !important;" ></a>
-
 ### TeX Stack Exchange
 
 @mathrm_alpha been specifically working on adapting some innovative commands for LaTeX, such as the new `unicode-math` commands, and I’m also eager to design signage for Taiwanese transit stops using `TikZ`.
