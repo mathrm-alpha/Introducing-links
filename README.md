@@ -19,4 +19,11 @@ Sometimes @mathrm_alpha also post some weird music theory questions on Stack Exc
 
 I also enjoy taking apart LaTeX font files from time to time; I’ve used FontForge.
 
+我也喜歡不時拆解 LaTeX 字型檔案；我曾使用過 FontForge。
+
  - My LaTeX editor of choice is Overleaf.
+我首選的 LaTeX 編輯器是 Overleaf。
+
+I occasionally use the music editor in MuseScore 3.6.2, and when I come up with ideas on paper, I’ll write down some strange music theories on blank sheet music.
+
+我偶爾會使用 MuseScore 3.6.2 中的樂譜編輯器，當我在紙上構思時，會將一些奇特的音樂理論寫在空白的樂譜紙上。
