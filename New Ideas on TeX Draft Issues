@@ -9,15 +9,19 @@ https://m.mamaclub.com/learn/%E8%AA%B2%E6%9C%AC%E5%B0%B1%E6%98%AF%E6%9C%89%E8%81
 
 How to create a Taiwan MRT route map in LaTeX?
 https://zh-yue.wikipedia.org/wiki/File:Taichung_MRT_Planning_Route_Map.jpg
+#map #tikz-pgf
 
 How to Create a Taiwanese Calendar Format Using LaTeX
 https://www.lyd.com.tw/calendar_goods.html
+#calendar #formatting
 
 How to Create a Demo Slideshow Showing Unicode Dynamic Ascending Code Values Using LaTeX
 https://youtu.be/o8XvMlCoOac
+#xecjk #dynamic #unicoode #slideshow
 
 How to Make a “Life in the Farming District” Sign
 https://www.miaoli.gov.tw/News_Content2.aspx?n=286&sms=9463&s=981807
+#tikz-pgf
 
 How to use TikZ to create an infinitely stacked triangle that wraps around itself multiple times, with each iteration scaling down to a size roughly proportional to the text
 𝑴𝒆𝒂𝒏𝒊𝒏𝒈: N-fold Enclosures of Triangles (Infinite Iterations) in TikZ, Triangles nested within triangles, repeated multiple times, with the same text size ratio
