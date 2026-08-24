@@ -1,6 +1,9 @@
 # Introducing-links
 These are my personal information methods.
 
+See also other:
+- https://github.com/mathrm-alpha/mathrm-alpha-russian/blob/main/README.md
+
 ### TeX Stack Exchange
 
 @mathrm_alpha been specifically working on adapting some innovative commands for LaTeX, such as the new `unicode-math` commands, and I’m also eager to design signage for Taiwanese transit stops using `TikZ`.
