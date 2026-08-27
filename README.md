@@ -1,6 +1,8 @@
 # Introducing-links
 These are my personal information methods.
 
+ - https://space.bilibili.com/3690975356520700?spm_id_from=333.788.upinfo.detail.click
+
 See also other:
 - https://github.com/mathrm-alpha/mathrm-alpha-russian/blob/main/README.md
 
